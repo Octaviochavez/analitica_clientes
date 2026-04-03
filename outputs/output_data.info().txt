@@ -1,0 +1,29 @@
+<class 'pandas.DataFrame'>
+RangeIndex: 20400 entries, 0 to 20399
+Data columns (total 22 columns):
+ #   Column                 Non-Null Count  Dtype  
+---  ------                 --------------  -----  
+ 0   id_cliente             20400 non-null  int64  
+ 1   fecha_registro         20400 non-null  str    
+ 2   edad                   20400 non-null  int64  
+ 3   genero                 20400 non-null  str    
+ 4   region                 20400 non-null  str    
+ 5   estado_civil           20400 non-null  str    
+ 6   ingreso_mensual        19379 non-null  float64
+ 7   gasto_mensual          19375 non-null  float64
+ 8   deuda_total            20400 non-null  float64
+ 9   score_crediticio       19379 non-null  float64
+ 10  antiguedad_meses       20400 non-null  int64  
+ 11  frecuencia_compra      20400 non-null  int64  
+ 12  ultima_compra_dias     20400 non-null  int64  
+ 13  uso_app                20400 non-null  str    
+ 14  tipo_plan              20400 non-null  str    
+ 15  num_productos          20400 non-null  int64  
+ 16  tiene_tarjeta_credito  20400 non-null  int64  
+ 17  canal_registro         20400 non-null  str    
+ 18  dia_semana_registro    20400 non-null  str    
+ 19  hora_registro          20400 non-null  int64  
+ 20  codigo_postal          20400 non-null  int64  
+ 21  abandono               20400 non-null  int64  
+dtypes: float64(4), int64(10), str(8)
+memory usage: 3.4 MB
