@@ -1,0 +1,5 @@
+,fecha_registro,genero,region,estado_civil,uso_app,tipo_plan,canal_registro,dia_semana_registro
+count,20400,20400,20400,20400,20400,20400,20400,20400
+unique,2000,3,3,3,3,3,3,7
+top,2018-06-14,Otro,Sur,Casado,Bajo,Estandar,App,Miercoles
+freq,21,6997,6812,6828,6886,6878,6894,3000

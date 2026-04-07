@@ -1,0 +1,40 @@
+<class 'pandas.DataFrame'>
+RangeIndex: 20000 entries, 0 to 19999
+Data columns (total 33 columns):
+ #   Column                         Non-Null Count  Dtype  
+---  ------                         --------------  -----  
+ 0   ingreso_mensual                20000 non-null  float64
+ 1   deuda_total                    20000 non-null  float64
+ 2   gasto_mensual                  20000 non-null  float64
+ 3   score_crediticio               20000 non-null  float64
+ 4   edad                           20000 non-null  float64
+ 5   antiguedad_meses               20000 non-null  float64
+ 6   frecuencia_compra              20000 non-null  float64
+ 7   ultima_compra_dias             20000 non-null  float64
+ 8   num_productos                  20000 non-null  float64
+ 9   hora_registro                  20000 non-null  float64
+ 10  genero_Femenino                20000 non-null  float64
+ 11  genero_Masculino               20000 non-null  float64
+ 12  genero_Otro                    20000 non-null  float64
+ 13  region_Centro                  20000 non-null  float64
+ 14  region_Norte                   20000 non-null  float64
+ 15  region_Sur                     20000 non-null  float64
+ 16  estado_civil_Casado            20000 non-null  float64
+ 17  estado_civil_Divorciado        20000 non-null  float64
+ 18  estado_civil_Soltero           20000 non-null  float64
+ 19  canal_registro_App             20000 non-null  float64
+ 20  canal_registro_Tienda          20000 non-null  float64
+ 21  canal_registro_Web             20000 non-null  float64
+ 22  dia_semana_registro_Domingo    20000 non-null  float64
+ 23  dia_semana_registro_Jueves     20000 non-null  float64
+ 24  dia_semana_registro_Lunes      20000 non-null  float64
+ 25  dia_semana_registro_Martes     20000 non-null  float64
+ 26  dia_semana_registro_Miercoles  20000 non-null  float64
+ 27  dia_semana_registro_Sabado     20000 non-null  float64
+ 28  dia_semana_registro_Viernes    20000 non-null  float64
+ 29  tipo_plan                      20000 non-null  float64
+ 30  uso_app                        20000 non-null  float64
+ 31  tiene_tarjeta_credito          20000 non-null  float64
+ 32  abandono                       20000 non-null  float64
+dtypes: float64(33)
+memory usage: 5.0 MB
